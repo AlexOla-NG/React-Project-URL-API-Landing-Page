@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/AlexOla-NG/React-Project-URL-API-Landing-Page]
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -114,4 +114,5 @@ I'd also love to work more with APIs. I wanna use react query in my next project
 ## Acknowledgments
 
 🌟✨🌠The Real MVPs🌟✨🌠
+
 Stackoverflow, MDN docs, Youtube, Google.com
