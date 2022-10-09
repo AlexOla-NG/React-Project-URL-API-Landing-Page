@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add live site URL here](https://github.com/AlexOla-NG/React-Project-URL-API-Landing-Page)
+- Solution URL: [Github Repo](https://github.com/AlexOla-NG/React-Project-URL-API-Landing-Page)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
