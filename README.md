@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repo](https://github.com/AlexOla-NG/React-Project-URL-API-Landing-Page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [CodeSandbox temp site](https://u6vmnn.csb.app/)
 
 ## My process
 
